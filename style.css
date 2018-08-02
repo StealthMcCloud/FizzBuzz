@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.red {
+    color: red;
+}
