@@ -1,4 +1,7 @@
-
+body {
+    line-height: 1.4;
+}
+        
 .bold {
     font-weight: bolder;
 }
